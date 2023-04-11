@@ -1,9 +1,9 @@
 /**
- * Portfolio 3D
+ * OpenGL Triangle
  *
  * @author Afaan Bilal
  * @link   https://afaan.dev
- * @link   https://github.com/AfaanBilal/Portfolio3D
+ * @link   https://github.com/AfaanBilal/OpenGLTriangle
  */
 
 #include <glad/glad.h>
@@ -103,9 +103,9 @@ int main()
 
 	// triangle
 	float vertices[] = {
-		-0.5f, -0.5f, 0.0f, // left  
-		 0.5f, -0.5f, 0.0f, // right 
-		 0.0f,  0.5f, 0.0f  // top   
+		-0.5f, -0.5f, 0.0f, // left
+		 0.5f, -0.5f, 0.0f, // right
+		 0.0f,  0.5f, 0.0f  // top
 	};
 
 	unsigned int VBO, VAO;
