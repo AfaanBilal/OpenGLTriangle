@@ -9,6 +9,12 @@ Drawing a simple triangle using OpenGL and C++.
 
 ---
 
+## Screenshot
+
+![screenshot](./screenshots/1.png)
+
+---
+
 ## Contributing
 All contributions are welcome. Please create an issue first for any feature request
 or bug. Then fork the repository, create a branch and make any changes to fix the bug
