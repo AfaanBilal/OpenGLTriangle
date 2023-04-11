@@ -22,6 +22,9 @@
     <ClCompile Include="glad.c" />
     <ClCompile Include="Portfolio3D.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
